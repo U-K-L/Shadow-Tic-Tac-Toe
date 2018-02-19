@@ -9,9 +9,12 @@ Credits:
 
 Code: Noah Williams
 
+Carlos Chavez
+
 ----------------
 
 Graphics: Noah Williams
+
 
 -----------------------
 
